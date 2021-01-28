@@ -7,3 +7,6 @@ I use this project to learn <b>Dart</b> and <b>Flutter</b> that includes the fol
 - Card
 - Custom Text Style
 - Carousel Slider from the [package](https://pub.dev/packages/carousel_slider)
+
+# Demo
+![Demo](./demo.gif)
